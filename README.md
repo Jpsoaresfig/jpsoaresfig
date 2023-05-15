@@ -12,7 +12,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=jpsoaresfig&show_icons=true" />
 </picture>
- <a href="https://app.daily.dev/jpsoaresfig"><img src="https://api.daily.dev/devcards/1b50dc6a70e34d5883d082f577299b13.png?r=7ls" width="250"  align="right" alt="joao pedro soares figueiredo's Dev Card"/></a>
+
  
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpsoaresfig&layout=compact)](https://github.com/jpsoaresfig/github-readme-stats)
