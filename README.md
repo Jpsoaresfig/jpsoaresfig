@@ -22,6 +22,8 @@
   <img align="center" alt="jp-HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jp-CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jp-Python" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
 </div>
 
 <br>
@@ -33,11 +35,11 @@
  
  
   
-- 🔭 Estou trabalhando atualmente com Front-end
+- 🔭 Estou trabalhando atualmente com Desenvolvimento web 
   <br/>
 - 🌱 Estou atualmente aprendendo Javascript e react
   <br/>
-- 🤔 meu instagram jp.soares.fig
+- 🤔 meu instagram: jp.soares.fig
   <br/>
 - 📫 meu e-mail para contato jpbusinesss@hotmail.com
   <br/>
