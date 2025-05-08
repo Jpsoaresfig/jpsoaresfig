@@ -1,5 +1,4 @@
-<h1>Hello, my name is João Pedro and I work as a programmer 👨‍💻</h1>
-
+<h1>Hello, my name is João Pedro and I'm a Software Engineer 👨‍💻</h1>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=jpsoaresfig&show_icons=true&theme=dark"
