@@ -21,7 +21,10 @@
   <img align="center" alt="jp-CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jp-Python" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Next.js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Next.js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
+   <img align="center" alt="Spring" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
+
+  
 </div>
 
 <br>
@@ -30,12 +33,8 @@
   <a href="https://www.linkedin.com/in/joão-pedro-figueiredo-55684420a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-- 🔭 Currently working with Web Development
-  <br/>
-- 🌱 Currently learning Javascript and React
-  <br/>
-- 🤔 My Instagram: jp.soares.fig
-  <br/>
-- 📫 My email for contact: jpbusinesss@hotmail.com
-  <br/>
+- 🔭 Currently working with Web Development  
+- 🌱 Currently learning Javascript and React  
+- 🤔 My Instagram: jp.soares.fig  
+- 📫 My email for contact: jpbusinesss@hotmail.com  
 - ⚡ Fun fact: I love sushi
