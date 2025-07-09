@@ -1,41 +1,60 @@
-<h1>Hello, my name is João Pedro and I'm a Software Engineer 👨‍💻</h1>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jpsoaresfig&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+# 👨‍💻 João Pedro Figueiredo
+
+**`Software Engineer Fullstack`**
+
+<p>Sou um desenvolvedor Fullstack com mais de 3 anos de experiência que gosta de resolver desafios. Gosto de enfrentar problemas complexos e aprender com cada tentativa, acreditando que a persistência é minha maior força. 
+Estou sempre estudando para ampliar meu conhecimento, pois conhecimento nunca é demais.</p>
+<p>Sou organizado e aplico essa disciplina tanto no trabalho quanto na vida pessoal. Paciência, organização e comunicação são fundamentais para entregar um trabalho de qualidade e para trabalhar bem em equipe.</p>
+
+<p>Atualmente, estou focado em React, Java, Spring Boot, JavaScript, PostgreSQL e SQL.</p>
+
+<p> Também tenho experiência com Next.js, NestJS, Flutter, MySQL, PHP, Docker, .NET, Python, UiPath, Orchestrator, TypeScript, Dart, CSS, Node.js, Postman, angular, HTML e Tailwind.</p>
+
+----
+
+### 📊 Minhas estatísticas no GitHub
+
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=jpsoaresfig&show_icons=true&theme=tokyonight" 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jpsoaresfig&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpsoaresfig&layout=compact&theme=tokyonight" 
+    alt="Top Languages" 
+    height="160"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=jpsoaresfig&show_icons=true" />
-</picture>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpsoaresfig&layout=compact)](https://github.com/jpsoaresfig/github-readme-stats)
+</br>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="MySQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Python" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="center" alt="Spring" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 
-</div>
+### 🛠 Tecnologias e Linguagens
 
-<br>
 <div>
-  <a href="https://www.instagram.com/jp.soares.fig/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/joão-pedro-figueiredo-55684420a/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
+  <img alt="Java" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img alt="React" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img alt="Spring" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img alt="Python" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img alt="Docker" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+  <img alt="PostgreSQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+  <img alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+  <img alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img alt="TypeScript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+
 </div>
 
-- 🔭 Currently working with Web Development
-- 🌱 Currently learning Javascript and React
-- 🤔 My Instagram: [jp.soares.fig](https://www.instagram.com/jp.soares.fig/)
-- 📫 My email for contact: [jpbusinesss@hotmail.com](mailto:jpbusinesss@hotmail.com)
-- ⚡ Fun fact: I love sushi
+---
+
+### 📫 Contato
+
+- Instagram: [jp.soares.fig](https://www.instagram.com/jp.soares.fig/)  
+- LinkedIn: [João Pedro Figueiredo](https://www.linkedin.com/in/joão-pedro-figueiredo-55684420a/)  
+- Email: [jpbusinesss@hotmail.com](mailto:jpbusinesss@hotmail.com)  
+
+
