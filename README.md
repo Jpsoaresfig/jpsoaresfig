@@ -1,6 +1,6 @@
-# 👨‍💻 João Pedro Figueiredo
+# 👨‍💻 João Pedro Figueiredo - Software Engineer Fullstack
 
-**`Software Engineer Fullstack`**
+
 
 <p>Sou um desenvolvedor Fullstack com mais de 3 anos de experiência que gosta de resolver desafios. Gosto de enfrentar problemas complexos e aprender com cada tentativa, acreditando que a persistência é minha maior força. 
 Estou sempre estudando para ampliar meu conhecimento, pois conhecimento nunca é demais.</p>
