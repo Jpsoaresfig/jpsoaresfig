@@ -8,7 +8,7 @@ Estou sempre estudando para ampliar meu conhecimento, pois conhecimento nunca é
 
 <p>Atualmente, estou focado em React, Java, Spring Boot, JavaScript, PostgreSQL e SQL.</p>
 
-<p> Também tenho experiência com Next.js, NestJS, Flutter, MySQL, PHP, Docker, .NET, Python, UiPath, Orchestrator, TypeScript, Dart, CSS, Node.js, Postman, angular, HTML e Tailwind.</p>
+<p> Também tenho experiência com Next.js, NestJS, Flutter, MySQL, PHP, Docker, .NET, Python, UiPath, Orchestrator, TypeScript, Dart, CSS, Node.js, Postman, vue, angular, HTML e Tailwind.</p>
 
 ----
 
