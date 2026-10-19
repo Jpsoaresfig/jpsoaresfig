@@ -205,10 +205,7 @@ A Java-based reporting service integrating BIRT with Oracle APEX to generate PDF
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jpsoaresfig&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpsoaresfig&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used programming languages" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Jpsoaresfig&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
