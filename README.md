@@ -69,7 +69,7 @@ I've contributed to projects in the **financial, public-sector, and education in
 | Software Engineer · Contract | Ouse Passar | 2026 | Contributed to an education platform, backend services, AI-powered features, and digital product development. |
 | Software Development Intern | Sicredi Evolução | May 2024 – Sep 2025 | Developed UiPath automation that freed approximately 10% of system capacity by automating inactive-user deletion. |
 | IT Support Technician | Sicredi Evolução | Oct 2023 – May 2024 | Supported internal systems, troubleshooting, and service-level compliance. |
-| Software Developer · Freelance | Dev Dynamos | 2025–2026 | Contributed to software development, technical documentation, and DevConnect-related work. |
+| Software Developer · Freelance | Dev Dynamos | 2023–2023 | Contributed to software development, technical documentation, and DevConnect-related work. |
 
 ---
 
