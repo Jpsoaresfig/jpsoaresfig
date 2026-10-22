@@ -38,7 +38,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **João Pedro Soares de Figueiredo**, a Brazilian **Full Stack Software Engineer** with 4+ years of experience building web applications, mobile apps, backend systems, and process automation solutions.
+I'm **João Pedro Soares de Figueiredo**, a Brazilian **Full Stack Software Engineer** with 3+ years of experience building web applications, mobile apps, backend systems, and process automation solutions.
 
 Born in Natal, educated in João Pessoa, Brazil, and currently based in **Granada, Spain** 🇪🇸, where I'm pursuing a Master's in Business Process Management and Technologies at the Universidad de Granada.
 
